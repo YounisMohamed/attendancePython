@@ -1,0 +1,2 @@
+OPEN TERMINAL AND RUN THE FOLLOWING
+pip install --user opencv-contrib-python
